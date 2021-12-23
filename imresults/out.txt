@@ -1,0 +1,27 @@
+### Grayscale denoising ###
+	Imagename:01.png, PSNR noisy 20.18dB, PSNR denoised 30.26dB
+	Runtime 0.1035s
+	Imagename:02.png, PSNR noisy 20.18dB, PSNR denoised 33.29dB
+	Runtime 0.0501s
+	Imagename:03.png, PSNR noisy 20.18dB, PSNR denoised 31.02dB
+	Runtime 0.0899s
+	Imagename:04.png, PSNR noisy 20.18dB, PSNR denoised 29.68dB
+	Runtime 0.0871s
+	Imagename:05.png, PSNR noisy 20.18dB, PSNR denoised 30.46dB
+	Runtime 0.0898s
+	Imagename:06.png, PSNR noisy 20.18dB, PSNR denoised 29.16dB
+	Runtime 0.0955s
+	Imagename:07.png, PSNR noisy 20.18dB, PSNR denoised 29.48dB
+	Runtime 0.0931s
+	Imagename:08.png, PSNR noisy 20.17dB, PSNR denoised 32.60dB
+	Runtime 0.2482s
+	Imagename:09.png, PSNR noisy 20.17dB, PSNR denoised 30.18dB
+	Runtime 0.2555s
+	Imagename:10.png, PSNR noisy 20.17dB, PSNR denoised 30.28dB
+	Runtime 0.2873s
+	Imagename:11.png, PSNR noisy 20.17dB, PSNR denoised 30.11dB
+	Runtime 0.2538s
+	Imagename:12.png, PSNR noisy 20.17dB, PSNR denoised 30.21dB
+	Runtime 0.2565s
+	./data/Set12/ has 12 images,average PSNR noisy 20.18dB, average PSNR denoised 30.56dB,				 time 0.1592
+	./data/Set12/ has 12 images,average ssim noisy 0.8669dB, average ssim denoised 0.3900dB
