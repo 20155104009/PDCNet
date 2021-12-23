@@ -25,5 +25,4 @@
 
 ![RUNOOB 图标](./figures/real_png.jpg)
 
-### If you cite this paper, please the following format:  
 
